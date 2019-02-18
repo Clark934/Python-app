@@ -1,4 +1,4 @@
-#Homedepot Scrapper
+# Homedepot Scrapper
 Provides a web scraping tool for homedepot.com, including a search engine and a crawler.
 
 - The *homedepot_site_map class* grab the hierarchical department structure from site-map by generating a nested dictionary.
